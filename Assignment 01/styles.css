@@ -5,3 +5,11 @@ header{
     background-image: url(assets/Hero-bg.png);
 background-repeat: no-repeat;
 }
+
+.terget-section{
+   box-sizing: border-box;
+}
+
+.main-header{
+   text-align: center;
+}
