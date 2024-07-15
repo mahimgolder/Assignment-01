@@ -1,15 +1,41 @@
+.background-hedder{
+   position: absolute;
+   width: 1440px;
+   height: 652px;
+   left: 0;
+   right: 0;
+   top: 131px;
+   bottom: 4462px;
+   background: url(assets/Hero-bg.png);
+}
+ 
+.content-hedder{
+   
+position: absolute;
+width: 998px;
+height: 582px;
+left: 221px;
+right: 221px;
+top: 157px;
+bottom: 4506px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
 
-
-
-header{
-    background-image: url(assets/Hero-bg.png);
-background-repeat: no-repeat;
 }
 
-.terget-section{
-   box-sizing: border-box;
-}
 
-.main-header{
-   text-align: center;
+.group-image{
+   /* Group */
+position: absolute;
+width: 240.28px;
+height: 240px;
+left: 257.67%;
+right: -257.67%;
+top: 0%;
+bottom: 0%;
+transform: rotate(180.00deg);
+
 }
